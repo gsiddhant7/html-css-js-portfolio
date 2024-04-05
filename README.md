@@ -1,3 +1,3 @@
-This is a my portfolio.
+This is my portfolio.
 <br>
 Just a trial.
