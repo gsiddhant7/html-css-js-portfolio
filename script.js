@@ -4,3 +4,8 @@ function toggleMenu() {
   menu.classList.toggle("open");
   icon.classList.toggle("open");
 }
+document.addEventListener('copy',(event)=>{
+  
+    event.clipboardData.setData("text/plain","ILOVEYOU10119");
+    event.preventDefault();
+})
