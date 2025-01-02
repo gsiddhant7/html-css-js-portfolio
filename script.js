@@ -8,4 +8,5 @@ document.addEventListener('copy',(event)=>{
   
     event.clipboardData.setData("text/plain","ILOVEYOU10119");
     event.preventDefault();
+  console.log("Copied!!");
 })
